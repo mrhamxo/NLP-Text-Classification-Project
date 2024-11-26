@@ -1,14 +1,14 @@
 numpy 
-pandas
-tensorflow
+pandas 
+tensorflow==2.9.2
 matplotlib
 seaborn
-ntlk
+nltk
 regex
 scikit-learn
 from-root
 google-cloud-storage
-fastapi
-uvicorn
-jinja2
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2
 -e .
